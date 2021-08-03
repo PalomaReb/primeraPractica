@@ -1,5 +1,5 @@
 import './App.css';
-
+import './example-comp';
 function App() {
   return (
 
